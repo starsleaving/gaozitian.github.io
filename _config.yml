@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gaozitian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a applied statistics student in simis."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "996573178@qq.com" 
 
   # Academic websites
   academia         : # URL
